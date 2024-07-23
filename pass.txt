@@ -1,0 +1,6 @@
+Gopi.s{1: [1, 'gopi', 123, 100, 'IndiGo', 5, 17500, 'Trichy', 'Bangalore', 'Hi gopi your ticket is in pending list']}
+1{1: [1, 'gopi', 123, 100, 'IndiGo', 5, 17500, 'Trichy', 'Bangalore', 'approved']}
+{1: [1, 'gopi', 123, 100, 'IndiGo', 5, 17500, 'Trichy', 'Bangalore', 'approved'],
+ 2: [2, 'imam', 124, 200, 'Deccan Airlines', 5, 25000, 'Chennai', 'Delhi', 'cancel']}
+{1: [1, 'gopi', 123, 100, 'IndiGo', 5, 17500, 'Trichy', 'Bangalore', 'approved'],
+ 2: [2, 'imam', 124, 200, 'Deccan Airlines', 5, 25000, 'Chennai', 'Delhi', 'cancel']}
