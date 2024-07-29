@@ -1,6 +1,6 @@
 #pyton code for icons
 #question icon="\u2753" , correct icon="\u2705" , wrong icon="\u274C" , score icon="\U0001F3C6"
-#start icon="\U0001F3C1" , person="\U0001F464" 
+#start icon="\U0001F3C1" , person="\U0001F464"
 
 
 
